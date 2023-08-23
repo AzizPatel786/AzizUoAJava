@@ -344,11 +344,14 @@ public class Lab5{
 //        System.out.println(t2);
 //        System.out.printf("%.2f, %.2f", t2.getTopArea(), t2.getBottomArea());
         // Question 13
-        MyFrustumCone t1 = new MyFrustumCone();
-        System.out.println(t1);
-        System.out.printf("%.2f, %.2f\n", t1.getTopArea(), t1.getBottomArea());
-        MyFrustumCone t2 = new MyFrustumCone(3, 4, 5);
-        System.out.println(t2);
-        System.out.printf("%.2f, %.2f", t2.getTopArea(), t2.getBottomArea());
+//        MyFrustumCone t1 = new MyFrustumCone();
+//        System.out.println(t1);
+//        System.out.printf("%.2f, %.2f\n", t1.getTopArea(), t1.getBottomArea());
+//        MyFrustumCone t2 = new MyFrustumCone(3, 4, 5);
+//        System.out.println(t2);
+//        System.out.printf("%.2f, %.2f", t2.getTopArea(), t2.getBottomArea());
+
+
+
     }
 }
