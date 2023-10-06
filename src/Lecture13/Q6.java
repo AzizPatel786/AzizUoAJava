@@ -1,10 +1,10 @@
 package Lecture13;
 
 interface FinancialAidEligible { }
-abstract class Person {
-    int ID;
-    public int getID() { return ID; }
-}
+//abstract class Person {
+//    int ID;
+//    public int getID() { return ID; }
+//}
 class Student extends Person {}
 class Undergraduate extends Student implements FinancialAidEligible {}
 

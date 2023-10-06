@@ -230,15 +230,15 @@ class MyFrustumPyramid extends MyFrustumShape{
     }
 }
 
-class MyFrustumCone extends MyFrustumShape{
+class MyFrustumConee extends MyFrustumShape{
     private int topRadius;
     private int bottomRadius;
-    public MyFrustumCone(){
+    public MyFrustumConee(){
         super(1);
         this.topRadius = 1;
         this.bottomRadius = 1;
     }
-    public MyFrustumCone(int topRadius, int bottomRadius, int h){
+    public MyFrustumConee(int topRadius, int bottomRadius, int h){
         super(h);
         this.topRadius = topRadius;
         this.bottomRadius = bottomRadius;

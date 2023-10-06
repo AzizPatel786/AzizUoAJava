@@ -20,9 +20,9 @@ class Circle implements Area{
 
 public class Q2 {
     public static void main(String[] args) {
-        Area r1 = new Rectangle();
-        r1.printArea(10, 5);
-        Area r2 = new Circle();
-        r2.printArea(2, 2);
+//        Area r1 = new Rectanglee();
+//        r1.printArea(10, 5);
+//        Area r2 = new Circle();
+//        r2.printArea(2, 2);
     }
 }

@@ -27,11 +27,11 @@ public class Q9 {
         Fruit f1 = new Fruit("a bag of oranges", 2);
         Fruit f2 = new Fruit("a bag of apples", 1);
         Fruit f3 = new Fruit("a bag of bananas", 3);
-        ArrayList<Fruit> fruits = new ArrayList<Fruit>();
-        fruits.add(f1);
-        fruits.add(f2);
-        fruits.add(f3);
-        Collections.sort(fruits);
-        System.out.println(fruits);
+//        ArrayList<Fruit> fruits = new ArrayList<Fruit>();
+//        fruits.add(f1);
+//        fruits.add(f2);
+//        fruits.add(f3);
+//        Collections.sort(fruits);
+//        System.out.println(fruits);
     }
 }

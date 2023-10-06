@@ -68,7 +68,6 @@ public class Lab2 {
 
     public static void getDayOfWeek(int dayNumber) {
         String dayOfWeek;
-
         switch (dayNumber) {
             case 1 -> dayOfWeek = "MONDAY";
             case 2 -> dayOfWeek = "TUESDAY";
